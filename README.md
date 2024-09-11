@@ -1,5 +1,5 @@
 # 購物網站(nuxt+pinia+vuetify)
-2024/09/12 輔助V0製作而出，chatGPT版[這裡](https://github.com/corn323/nuxtShop-chatGPT)
+2024/09/12 V0版，chatGPT版[這裡](https://github.com/corn323/nuxtShop-chatGPT)
 
 ## Setup
 
